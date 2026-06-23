@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/zu9c/Nemesis/main/IronSoul.lua"))()
+-- [[ Alternatif Script Iron Soul ]] --
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TrisShiba/BananaHub/main/IronSoul.lua"))()
